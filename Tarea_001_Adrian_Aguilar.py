@@ -7,6 +7,9 @@ Cree un programa que solicite dos números. Verifique que estos números son pos
 y verifique que el primero número es menor por al menos 50 que el segundo número.
 Si los números ingresados son correctos, el programa debe calcular la suma de todos los números
 entre el primer número y el segundo que son múltiplos de 5 y múltiplos de 3
+
+cambio de linea
+segundo cambio
 """
 
 
@@ -96,4 +99,5 @@ if __name__== "__main__":
    # sumar_numeros_multiplos(numero_positivo_001,numero_positivo_002)
     r = validar_numero_mas_50(numero_positivo_001,numero_positivo_002)
     print(str(r))
+    print ("Cambios del programa")
     fin_del_programa()
